@@ -1,16 +1,17 @@
-Java Hesap Makinesi Projem
-Java Swing kullanarak yaptığım, modern görünümlü bir hesap makinesi uygulaması.
+# Java Hesap Makinesi
 
-Neler Yapabiliyor?
-Toplama 
-çıkarma 
-çarpma 
-bölme
+Java Swing kullanarak yaptığım modern görünümlü hesap makinesi projesi.
 
-Üstteki yazı kısmında hangi sayıları topladığınızı (işlem geçmişini) görebiliyorsunuz.
+## Özellikler
+* **Matematik İşlemleri:** Toplama, çıkarma, çarpma ve bölme yapabiliyor.
+* **İşlem Geçmişi:** Üst kısımdaki etiket üzerinden yapılan işlemleri takip edebilirsiniz.
+* **Silme Desteği:** Yanlış yazılan rakamları "Sil" butonuyla tek tek silebilirsiniz.
+* **Ondalıklı Sayılar:** Virgül butonu ile ondalıklı hesaplamalar yapabilirsiniz.
 
-Yanlış bastığınız rakamı "Sil" butonuyla silebiliyorsunuz.
+## Tasarım
+* Temasını mavi ve turkuaz renklerde, modern bir görünümde hazırladım.
 
-Virgüllü (ondalıklı) sayılarla işlem yapabiliyor.
-
-Temasını mavi ve turkuaz renklerde yaptım.
+## Çalıştırma
+1. Projeyi indirin.
+2. IntelliJ IDEA ile açın.
+3. `src/Main.java` dosyasını çalıştırın.
