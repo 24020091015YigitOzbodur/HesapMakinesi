@@ -2,7 +2,10 @@ Java Hesap Makinesi Projem
 Java Swing kullanarak yaptığım, modern görünümlü bir hesap makinesi uygulaması.
 
 Neler Yapabiliyor?
-Toplama, çıkarma, çarpma ve bölme işlemlerini yapabiliyor.
+Toplama 
+çıkarma 
+çarpma 
+bölme
 
 Üstteki yazı kısmında hangi sayıları topladığınızı (işlem geçmişini) görebiliyorsunuz.
 
